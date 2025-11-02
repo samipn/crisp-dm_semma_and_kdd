@@ -15,7 +15,7 @@
 
 ## SEMMA End-to-End: Student Performance (Kaggle) Medium Article: https://medium.com/@samiprichardniraula/semma-end-to-end-student-performance-kaggle-17e0c8ba0aad
 
-
+---
 
 ## What's inside
 
@@ -29,7 +29,6 @@ Every project includes:
 
 - A **Colab-ready notebook** that walks through all phases with **checklists**.
 - A minimal **FastAPI** service under `deployment/api/` exposing `POST /predict`.
-- A draft **article** in `medium_article.md` summarizing the project.
 - A project-scoped **`requirements.txt`**.
 - Optional **Dockerfile** under `docker/` for containerized runs.
 
