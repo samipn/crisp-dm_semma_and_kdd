@@ -7,6 +7,16 @@
 
 ---
 
+## Walkthrough Video Link: https://drive.google.com/file/d/1GmRuoeqzgEP6NKYE3-2glA1iXnIVD87J/view?usp=sharing
+
+## CRISP-DM: From Zero to Production on Titanic Dataset Medium Article: https://medium.com/@samiprichardniraula/crisp-dm-from-zero-to-production-on-titanic-dataset-d37357645e6b 
+
+## KDD: Credit Card Fraud Detection Model (Kaggle) Medium Article: https://medium.com/@samiprichardniraula/kdd-credit-card-fraud-detection-model-kaggle-bc59c498c710 
+
+## SEMMA End-to-End: Student Performance (Kaggle) Medium Article: https://medium.com/@samiprichardniraula/semma-end-to-end-student-performance-kaggle-17e0c8ba0aad
+
+
+
 ## What's inside
 
 Each subfolder is a **standalone project** following a specific methodology and dataset:
